@@ -36,3 +36,5 @@ trap   pethPsePortOnOffNotification             poe_trigger.py
 ```
 Router-> write memory flash-synchro
 ```
+8. You'll now receive beautiful notifications like the following for the associated network events<br>
+![ringcentral-notification](https://user-images.githubusercontent.com/5174414/186112895-aef90053-7e32-4942-a73a-1bd6d9adbfce.png)
