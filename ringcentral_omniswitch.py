@@ -70,6 +70,7 @@ def send_notification_card(message):
     system_info = collect_omniswitch_details()
     card_msg = {
         "activity": "Alcatel-Lucent Enterprise",
+        "iconUri": "https://bennye.github.io/logos/logo-rgb.png",
         "attachments": [
             {
                 "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
